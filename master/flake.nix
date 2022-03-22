@@ -9,7 +9,7 @@
   
   inputs.src-w8crc-master.flake = false;
   inputs.src-w8crc-master.owner = "sumatoshi";
-  inputs.src-w8crc-master.ref   = "refs/heads/master";
+  inputs.src-w8crc-master.ref   = "master";
   inputs.src-w8crc-master.repo  = "w8crc";
   inputs.src-w8crc-master.type  = "github";
   
