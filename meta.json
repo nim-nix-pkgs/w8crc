@@ -2,13 +2,72 @@
   "name": "w8crc",
   "url": "https://github.com/sumatoshi/w8crc",
   "method": "git",
-  "tags": [],
+  "tags": [
+    {
+      "name": "w8crc",
+      "version": "1.0.1",
+      "author": "Maxim Soeghe",
+      "desc": "Full-featured CRC library for Nim.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/tags/v1.0.1"
+    }
+  ],
   "description": "Full-featured CRC library for Nim.",
   "license": "MIT",
   "web": "https://github.com/sumatoshi/w8crc",
   "refs": [
-    "fatal: unable to access 'https://github.com/sumatoshi/w8crc/': Could not resolve host: github.com",
+    "refs/heads/master",
+    "refs/tags/v1.0.1",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "w8crc",
+      "version": "1.0.1",
+      "author": "Maxim Soeghe",
+      "desc": "Full-featured CRC library for Nim.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.6.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.6.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
